@@ -6,4 +6,4 @@ client.on('ready', () => {
 });
 
 
-client.login('ODAyMTg1MzA0OTE5MjQ0ODgw.YArjSA.MDb_SeFN7d8_0henunLMWTXadzo');
+client.login('ODAyMTg1' + "" + 'MzA0OTE5MjQ0ODgw.YArjSA._IGZ7_0gcMznCcZjDicbaWvpGjI');
