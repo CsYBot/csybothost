@@ -6,4 +6,4 @@ client.on('ready', () => {
 });
 
 
-client.login('ODAyMTg1' + "" + 'MzA0OTE5MjQ0ODgw.YArjSA._IGZ7_0gcMznCcZjDicbaWvpGjI');
+csyhost.login('Encrypted Token');
