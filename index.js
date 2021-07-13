@@ -6,4 +6,4 @@ client.on('ready', () => {
 });
 
 
-csyhost.login('Encrypted Token');
+csyhost.login('bd978face9ef32c4950dca103292cb6f');
