@@ -1,4 +1,4 @@
-commandcreate("hi", "hello +username+");
+commandcreate("hi", "hello -username-");
 
 csyhost.ready("Hello CsYHosted", "csycraft");
 
